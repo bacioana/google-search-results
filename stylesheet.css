@@ -1,0 +1,156 @@
+div{
+	position: relative;
+}
+.upbar{
+	background-color: #d2cece;
+	height: 50px;
+	width: 1277px;
+	top:-7px;
+	left:-7px;
+}
+.text{
+	top:-20px;left: 100px;
+}
+textarea{
+	border: 0.5px solid blue;
+	font-size: 24px;
+}
+.logo{
+	height: 30px; width: 30px;
+	left: 20px; top:10px;
+
+}
+div img{
+	height: 30px;
+	width: 50px;
+}
+.lupa img{
+	height: 30px;
+	width: 30px;
+}
+.lupa{
+	left:608px;
+	top:-38px;
+	background-color: #0a98dd;
+	height: 35px;
+	width: 35px;
+	border-radius: 2px;
+}
+.sign-in{
+	height: 25px;
+	width: 90px;
+	background-color:#2372b2;
+	left:1050px;
+	top: -99px;
+	color:#fff;
+	font-size: 14px;
+	text-align: center;
+	padding-top:7px;
+	border-radius: 3px;
+}
+.square img{
+   width: 20px;
+   height: 20px;
+ }
+.square{
+   left:1000px;
+   top:-70px;
+   position: relative;
+}
+.upmenu{
+	height: 50px;
+	width: 1275px;
+	top:-110px;
+	left:0px;
+	border:solid 1px #d2cece;
+}
+.ubm{
+    left:100px;
+    top:17px;
+    color:#767070;
+}
+#b2{
+	left:70px;
+	top:-18px;
+}
+#b3{
+	left:160px;
+	top:-35px;
+}
+#b4{
+	left:260px;
+	top:-53px;
+}
+#b5{
+	left:340px;
+	top:-71px;
+}
+#b6{
+	left:420px;
+	top:-89px;
+}
+#b7{
+	left: 500px;
+	top: -107px;
+}
+.bottom-menu a{
+	text-decoration: none;
+	color:#767070;
+}
+.ubm a{
+	text-decoration: none;
+	color:#767070;
+	}
+.bottom-menu{
+	height: 35px;
+	width: 1259px;
+	background-color: #dddada;
+	
+	top:420px;
+	margin-bottom: 0px;
+
+}
+.left-side{
+	text-align: left;
+	color: #929292;
+	padding-top: 1px;
+	top:-7px;
+	word-spacing: 17px;
+	left: 70px;
+}
+#results{
+	top:-120px;
+	left:115px;
+	color: #929292;
+	font-size: 15px;
+}
+#r1{
+	left:100px;
+	top:-100px;
+	line-height: 5px;
+}
+.blue{
+	color:#0295a9;
+	font-size: 20px;
+}
+.blue a{
+	text-decoration: none;
+	color:#0295a9;
+}
+.green{
+	color:green;
+	font-size: 13px;
+}
+.grey{
+	color:#929292;
+	font-size: 13px;
+}
+#r2{left:100px;top:-70px; line-height:5px;}
+#r3{left:100px;top:-50px;line-height:5px;}
+#r4{left:100px;top:-30px; line-height:5px;}
+#r5{left:100px;top:-10px; line-height:5px;}
+#r6{left:100px;top:10px; line-height:5px;}
+#r7{left:100px;top:30px; line-height:5px;}
+#r8{left:100px;top:50px; line-height:5px;}
+#r9{left:100px;top:70px; line-height:5px;}
+#r10{left:100px;top:90px; line-height:5px;}
